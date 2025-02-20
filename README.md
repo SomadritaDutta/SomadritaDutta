@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **BCA student** with a strong focus on **learning Py
 
 - 🔭 I’m currently learning:
   - **Python** (focusing on core programming concepts and building projects).
-  - **Cybersecurity fundamentals** network security basics.
+  - **Cybersecurity fundamentals** and network security basics.
 
 - 🌱 I’m actively improving my skills in **Python**, **C++**, and **cybersecurity**.
 - 📫 How to reach me: **somadritadutta05@gmail.com**.
